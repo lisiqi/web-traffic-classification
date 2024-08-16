@@ -100,7 +100,7 @@ Why RandomForest?
     - easy feature importance analysis
     - easy feature engineering
         - tree-based + frequency encoding for high cardinality features 
-        - no need to scale or standadized numerical features
+        - no need to scale or standadize numerical features
 
 For more on frequency encoding, check out my [blog post](https://medium.com/@SiqiLi/frequency-encoding-4156b92e7942).
 
